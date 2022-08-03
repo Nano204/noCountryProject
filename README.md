@@ -4,7 +4,7 @@ _Miravos es una web que_ **facilita la toma de decisión a la hora de elegir una
 
 _Así como uno busca las valoraciones y comentarios de personas para realizar una compra o elegir un restaurante, Miravos busca su_ **valor diferencial, en ofrecer a la persona usuaria los User Reviews de IMDb** _(Internet Movie Database) junto con el puntaje otorgado._
 
-_La propuesta inicial es que con las variables de_**sinopsis, puntaje, comentarios y trailer** _de cada película se logre la_ **satisfacción de la persona para hallar la elección de su agrado**._
+_La propuesta inicial es que con las variables de_ **sinopsis, puntaje, comentarios y trailer** _de cada película se logre la_ **satisfacción de la persona para hallar la elección de su agrado**._
 
 _Para aquellas personas que ya se tomaban el trabajo de buscar una película adecuada, se simplifica otorgando los parámetros adecuados para la elección._
 
