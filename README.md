@@ -6,7 +6,7 @@ _Así como uno busca las valoraciones y comentarios de personas para realizar un
 
 _La propuesta inicial es que con las variables de_ **sinopsis, puntaje, comentarios y trailer** _de cada película se logre la_ **satisfacción de la persona para hallar la elección de su agrado**._
 
-_Para aquellas personas que ya se tomaban el trabajo de buscar una película adecuada, se simplifica otorgando los parámetros adecuados para la elección._
+_Para aquellas personas que ya se tomaban el trabajo de buscar una película adecuada, se simplifica otorgando los parámetros para la mejor elección._
 
 _Para aquellas personas que no se preocupaban por elegir, les va a ahorrar muchísimo tiempo de películas que no valen la pena._
 
