@@ -95,7 +95,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Adrián Fermanelli** - *UX UI Designer* - [AdrianFermanelli](https://github.com/AdrianFermanelli)
 * **Fabián Alfonso Gómez** - *Full Stack - PERN* - [Nano204](https://https://github.com/Nano204)
 * **Manuel Alejandro Martinez** - *Full Stack - PERN* - [fulanitodetal](#fulanito-de-tal)
-* **Denis Parada** - *Full Stack - PERN* - [fulanitodetal](#fulanito-de-tal)
+* **Denis Parada** - *Full Stack - PERN* - [fulanitodetal](#fulanito-de-tal) 
 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
